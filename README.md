@@ -11,8 +11,3 @@
 ```bash
 pip install -r requirements.txt
 ```
-
-有两种方式运行:
-
-1. 依次运行 `main.ipynb` 中的代码单元，可以随时打断并修改内容
-2. 直接运行 `main.py`，简单配置后可以直接挂自动脚本
